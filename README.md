@@ -12,7 +12,11 @@
 
  
 # Tech stack:
-#### Spring IOC, Spring  Security, Hibernate, MysQL
+* Spring (Version: 4.1.6) IOC, 
+* Spring  Security (Version: 4.0.2), 
+* Hibernate, 
+* MysQL, 
+* Guava (Version: 18.0)
 
 --------------------------------------------------
 
